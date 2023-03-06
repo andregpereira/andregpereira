@@ -11,7 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andregpereira&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=andregpereira&hide=issues&show_icons=true&theme=tokyonight)](https://github.com/andregpereira/github-readme-stats)
+[![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=andregpereira&hide=issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
   <a href="https://www.linkedin.com/in/andre-garcia-pereira"> <img height="35" alt="LinkedIn" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
